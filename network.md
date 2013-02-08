@@ -70,6 +70,8 @@ cuprinde acum o rețea extinsă de agenții în Europa Centrală și de
 Sud-Est și își oferă serviciile unei game largi de clienți
 internaționali și regionali.
 
+<img src="{{ site.url }}/images/network.png">
+
 * [Austria](http://www.chapter4.at)
 * [Serbia](http://www.chapter4.rs)
 * [Bosnia și Herțegovina](http://www.chapter4.ba)
