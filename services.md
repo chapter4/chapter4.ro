@@ -3,7 +3,7 @@ layout: plain
 title: Servicii
 ---
 
-## Servicii
+## Servicii Chapter4
 
 ### Analiza comunicării și consultanță
 
@@ -19,3 +19,30 @@ title: Servicii
 * Monitorizarea mass-media
 * Managementul crizei
 * Analiză post criză
+
+
+## Servicii parteneri
+
+### GMP PR
+
+(TODO)
+
+### GMP Advertising
+
+(TODO)
+
+### Webstyler
+
+* Strategie și Creație
+* Digital relationship marketing
+* Dezvoltare web
+* Social Media
+* Comunicare digitală pentru CSR
+
+### Point Public Affairs
+
+* Public Affairs
+* Lobby
+* Comunicare strategică
+* Legal Affairs
+* Association Management
