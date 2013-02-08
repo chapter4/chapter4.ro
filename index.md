@@ -38,3 +38,9 @@ Astăzi, Burson-Marsteller își desfășoară activitatea în peste 90 de țăr
 din toată lumea și colaborează cu companii de top. Ca afiliat exclusiv,
 Chapter4 Viena reprezintă Burston-Marsteller în Europa Centrală și de
 Sud-Est.
+
+### Echipa Chapter4 România
+
+* Raluca Ene – Managing Director
+* Marina Constanda – PR Execturive
+* Andra Iacob – PR Executive
