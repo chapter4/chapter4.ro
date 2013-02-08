@@ -1,5 +1,12 @@
 ---
 layout: plain
-title: About – Chapter4 România
+title: Despre noi
 ---
-Read all about chapter 4 romania here.
+
+## Despre noi
+
+### Echipa Chapter4
+
+* Raluca Ene – Managing Director
+* Marina Constanda – PR Execturive
+* Andra Iacob – PR Executive
