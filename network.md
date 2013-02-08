@@ -3,10 +3,11 @@ layout: plain
 title: Rețea și parteneri
 ---
 
-## GMP GROUP
+## Rețea și parteneri
 
+### GMP GROUP
 
-### GMP Advertising
+#### GMP Advertising
 
 GMP este una dintre agențiile independente importante din România,
 înființață în anul 2000 de către Felix Tătaru. De-a lungul celor 12 ani
@@ -25,7 +26,7 @@ care Ursus Breweries, GSK, Petrom, Romtelecom, Fundația IREX, Apa Nova,
 Casa de Insolvență Transilvania, PepsiCo România, HP și Henkel.
 
 
-### Webstyler
+#### Webstyler
 
 Webstyler este cea mai premiată agenție digitală românească, cu un
 palmares de peste 40 premii câștigate la Internetics, fiind totodată și
@@ -38,7 +39,7 @@ pentru branduri precum: Romtelecom, ING Bank, Petrom, Regina Maria,
 Mitsubishi, Baumax.
 
 
-### Point Public Affairs
+#### Point Public Affairs
 
 Point Public Affairs oferă consultanță  specializată în servicii
 integrate de public affairs, legal affairs, lobbying și comunicare.
@@ -51,7 +52,7 @@ public, administrativ și constituțional, relații publice, comunicare și
 programe de responsabilitate socială.
 
 
-### Itsy Bitsy
+#### Itsy Bitsy
 
 Itsy Bitsy este singurul post de radio din Romania dedicat copiilor si
 parintilor. Itsy Bitsy este "cel mai tare loc de joaca", dar si un mediu
@@ -59,7 +60,7 @@ sanatos pentru copii. Itsy Bitsy este un mijloc suplimentar de educatie
 si un ajutor pentru parinti.  Grila de programe urmareste o zi obisnuita
 din viata unui copil.
 
-### CHAPTER4
+#### CHAPTER4
 
 Chapter4 a fost fondat în 2010 ca rezultat al inițiativei a patru
 agenții din patru piețe ale Europei Centrale, după mulți ani de
